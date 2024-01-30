@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		205970132B69330500BD57A7 /* Job.swift in Sources */ = {isa = PBXBuildFile; fileRef = 205970122B69330500BD57A7 /* Job.swift */; };
 		20BA56D32B69035A00726253 /* SwiftDataProjectApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20BA56D22B69035A00726253 /* SwiftDataProjectApp.swift */; };
 		20BA56D52B69035A00726253 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20BA56D42B69035A00726253 /* ContentView.swift */; };
 		20BA56D72B69035B00726253 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 20BA56D62B69035B00726253 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		205970122B69330500BD57A7 /* Job.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Job.swift; sourceTree = "<group>"; };
 		20BA56CF2B69035A00726253 /* SwiftDataProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftDataProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		20BA56D22B69035A00726253 /* SwiftDataProjectApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftDataProjectApp.swift; sourceTree = "<group>"; };
 		20BA56D42B69035A00726253 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 			children = (
 				20BA56D22B69035A00726253 /* SwiftDataProjectApp.swift */,
 				20BA56D42B69035A00726253 /* ContentView.swift */,
+				205970122B69330500BD57A7 /* Job.swift */,
 				20D8F00D2B69186600150BE8 /* UsersView.swift */,
 				20D8F0092B69113C00150BE8 /* User.swift */,
 				20BA56D62B69035B00726253 /* Assets.xcassets */,
@@ -147,6 +150,7 @@
 				20BA56D32B69035A00726253 /* SwiftDataProjectApp.swift in Sources */,
 				20D8F00A2B69113C00150BE8 /* User.swift in Sources */,
 				20D8F00E2B69186600150BE8 /* UsersView.swift in Sources */,
+				205970132B69330500BD57A7 /* Job.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
