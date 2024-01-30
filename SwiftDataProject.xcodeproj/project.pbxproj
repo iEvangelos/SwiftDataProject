@@ -11,6 +11,8 @@
 		20BA56D52B69035A00726253 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20BA56D42B69035A00726253 /* ContentView.swift */; };
 		20BA56D72B69035B00726253 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 20BA56D62B69035B00726253 /* Assets.xcassets */; };
 		20BA56DA2B69035B00726253 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 20BA56D92B69035B00726253 /* Preview Assets.xcassets */; };
+		20D8F00A2B69113C00150BE8 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D8F0092B69113C00150BE8 /* User.swift */; };
+		20D8F00C2B69116500150BE8 /* EditUserView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D8F00B2B69116500150BE8 /* EditUserView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		20BA56D42B69035A00726253 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		20BA56D62B69035B00726253 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		20BA56D92B69035B00726253 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		20D8F0092B69113C00150BE8 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		20D8F00B2B69116500150BE8 /* EditUserView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditUserView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				20BA56D22B69035A00726253 /* SwiftDataProjectApp.swift */,
 				20BA56D42B69035A00726253 /* ContentView.swift */,
+				20D8F00B2B69116500150BE8 /* EditUserView.swift */,
+				20D8F0092B69113C00150BE8 /* User.swift */,
 				20BA56D62B69035B00726253 /* Assets.xcassets */,
 				20BA56D82B69035B00726253 /* Preview Content */,
 			);
@@ -138,7 +144,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				20BA56D52B69035A00726253 /* ContentView.swift in Sources */,
+				20D8F00C2B69116500150BE8 /* EditUserView.swift in Sources */,
 				20BA56D32B69035A00726253 /* SwiftDataProjectApp.swift in Sources */,
+				20D8F00A2B69113C00150BE8 /* User.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
